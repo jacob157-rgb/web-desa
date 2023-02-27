@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>gembong dadi</title>
+    <title>SIPM</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <!-- CSS -->
@@ -17,7 +17,7 @@
         <nav class="navbar navbar-dark bg-primary navbar-expand-sm">
             <div class="container">
                 <a class="navbar-brand" href="home">
-                    <img src="assets/logo.png" alt="..." height="36"> Gembongdadi </a>
+                    <img src="assets/logo.png" alt="..." height="36">&emsp;SIPM</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -38,7 +38,7 @@
     <!--Running Text-->
     <div class=" alert alert-primary alert-dismissible container-fluid fade show rounded-0 rounded-bottom mb-0 mt-0
                                 pb-0 pt-1" role="alert">
-        <marquee onmouseover="this.stop()" onmouseout="this.start()">selamat datang digemboang dadi kecamatan suradadi. </marquee>
+        <marquee onmouseover="this.stop()" onmouseout="this.start()">Welcome to website Sistem Informasi Pelayanan Masyarakat | SIPM. </marquee>
         <button type="button" class="btn-close mb-0 mt-0 pb-0 pt-3" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>
     <!--End Running Text-->

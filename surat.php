@@ -43,7 +43,7 @@ include "dasboard/config.php";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>surat | Desa</title>
+    <title>Surat | SIPM</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <!-- CSS -->
@@ -59,7 +59,7 @@ include "dasboard/config.php";
             data-aos-delay="1000">
             <div class="container">
                 <a class="navbar-brand" href="home">
-                    <img src="assets/logo.png" alt="..." height="36">&emsp;Gembongdadi </a>
+                    <img src="assets/logo.png" alt="..." height="36">&emsp;SIPM</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -72,7 +72,7 @@ include "dasboard/config.php";
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false"> Profil Desa </a>
+                                aria-expanded="false"> Profil SIPM </a>
                             <ul class="dropdown-menu dropdown-menu-primary">
                                 <li><a class="dropdown-item" href="profil">Sejarah
                                         Desa</a></li>
@@ -261,7 +261,7 @@ include "dasboard/config.php";
         <footer class="py-3 my-4 pb-0 mb-0 ">
             <ul class="nav justify-content-center border-bottom pb-3 mb-2">
                 <li class="nav-item"><a href="home" class="nav-link px-2 text-muted">Beranda</a></li>
-                <li class="nav-item"><a href="profil" class="nav-link px-2 text-muted">Profil Desa</a></li>
+                <li class="nav-item"><a href="profil" class="nav-link px-2 text-muted">Profil SIPM</a></li>
                 <li class="nav-item"><a href="surat" class="nav-link px-2 text-muted">E-Surat</a></li>
                 <li class="nav-item"><a href="login" class="nav-link px-2 text-muted">About</a></li>
             </ul>
